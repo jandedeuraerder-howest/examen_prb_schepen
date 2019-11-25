@@ -1,7 +1,7 @@
 # Examen PRB 
-## Datum : maandag 2/12/2019
-## Examentijd : 18:00-21:00
-## Examengroep : S1&S2 – PROG – A – Programming basics – zaterdagvoormiddag
+### Datum : maandag 2/12/2019
+### Examentijd : 18:00-21:00
+### Examengroep : S1&S2 – PROG – A – Programming basics – zaterdagvoormiddag
 ## Afspraken :
 -	Je maakt deze opdracht individueel
 -	Indienen doe je via een commit naar github.  Vraag je docent na te kijken of alles correct verlopen is.
