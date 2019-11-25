@@ -9,22 +9,10 @@
 
 ## Het WPF venster :
 
-! img1.png
+! /images/img1.png
 
+## LEES DE OPDRACHT EERST HELEMAAL VOORALEER JE GAAT PROGRAMMEREN !
 
-
-
-
-
-
-
-
-
-
-
-
-
-LEES DE OPDRACHT EERST HELEMAAL VOORALEER JE GAAT PROGRAMMEREN !
 De applicatie houdt informatie bij van schepen : de naam (string), het type (string), het aantal bemanningsleden (int) en de snelheid (byte) dat het schip kan varen.
 Voorzie in een afzonderlijke class library een klasse (Schip) dat deze eigenschappen heeft (gebruik full properties).
 Deze klasse dient over een constructor te beschikken die deze 4 waarden ontvangt.
