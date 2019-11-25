@@ -17,7 +17,9 @@ De applicatie houdt informatie bij van schepen : de naam (string), het type (str
 
 Voorzie in een afzonderlijke class library een klasse (Schip) dat deze eigenschappen heeft (gebruik full properties).
 Deze klasse dient over een constructor te beschikken die deze 4 waarden ontvangt.
-Deze klasse dient eveneens de ToString() methode te overschrijven.  Wanneer we straks onze schepen gaan afbeelden in lstSchepen dan dient daar de naam + het type van het schip in te verschijnen.
+
+Deze klasse dient eveneens de ToString() methode te overschrijven.  Wanneer we straks onze schepen gaan afbeelden in lstSchepen dan dient daar de naam + het type van het schip in te verschijnen (zie afbeelding onderaan).
+
 Wanneer een nieuw schip wordt toegevoegd dan : 
 -	Is de naam vereist : je hoeft NIET te controleren op eventuele dubbels
 -	Is het type vereist : dit wordt gekozen aan de hand van waarden in cmbScheepstype (zie verder)
