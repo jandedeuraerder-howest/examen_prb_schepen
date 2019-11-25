@@ -9,7 +9,7 @@
 
 ## Het WPF venster :
 
-! /images/img1.png
+! [alt text](/images/img1.png)
 
 ## LEES DE OPDRACHT EERST HELEMAAL VOORALEER JE GAAT PROGRAMMEREN !
 
