@@ -9,7 +9,7 @@
 
 ## Het WPF venster :
 
-! [alt text](/images/img1.png)
+![afbeelding1](https://github.com/jandedeuraerder-howest/examen_prb_schepen/blob/master/images/img1.png)
 
 ## LEES DE OPDRACHT EERST HELEMAAL VOORALEER JE GAAT PROGRAMMEREN !
 
